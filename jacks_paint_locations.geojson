@@ -1,0 +1,260 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.246702971232,
+          -29.096029562479
+        ]
+      },
+      "properties": {
+        "name": "Bloemfontein",
+        "group": "Jack's Paint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.31099725397412,
+          -28.241829418236776
+        ]
+      },
+      "properties": {
+        "name": "Bethlehem",
+        "group": "Jack's Paint",
+        "marker-color": "#ecd018",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.461191,
+          -26.899469
+        ]
+      },
+      "properties": {
+        "name": "Parys",
+        "group": "Jack's Paint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.400454,
+          -26.365413
+        ]
+      },
+      "properties": {
+        "name": "Carletonville",
+        "group": "Jack's Paint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.026045234816,
+          -26.55913478161
+        ]
+      },
+      "properties": {
+        "name": "Phalaborwa",
+        "group": "Jack's Paint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.696936906859886,
+          -26.19029825449502
+        ]
+      },
+      "properties": {
+        "name": "Randfontein",
+        "group": "Jack's Paint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.777206762151327,
+          -26.0983310276352
+        ]
+      },
+      "properties": {
+        "name": "Krugersdorp",
+        "group": "Jack's Paint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.89835,
+          -26.16776
+        ]
+      },
+      "properties": {
+        "name": "JACK'S PAINT & H/W - DISCOVERY",
+        "group": "Jack's Paint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.096672901994758,
+          -26.31441882226741
+        ]
+      },
+      "properties": {
+        "group": "Jack's Paint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.920485,
+          -26.138961
+        ]
+      },
+      "properties": {
+        "name": "Weltevreeden Park",
+        "group": "Jack's Paint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.357629868758757,
+          -26.501222195498368
+        ]
+      },
+      "properties": {
+        "name": "Heidelberg",
+        "group": "Jack's Paint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.000386236802505,
+          -26.176192822173988
+        ]
+      },
+      "properties": {
+        "name": "Melville",
+        "group": "Jack's Paint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.122681,
+          -26.270889
+        ]
+      },
+      "properties": {
+        "name": "Alberton",
+        "group": "Jack's Paint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.974618,
+          -26.134037
+        ]
+      },
+      "properties": {
+        "name": "Blackheath",
+        "group": "Jack's Paint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.123613509592655,
+          -26.188319548790506
+        ]
+      },
+      "properties": {
+        "name": "Bedfordview",
+        "group": "Jack's Paint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.168175,
+          -26.218387
+        ]
+      },
+      "properties": {
+        "name": "Germiston",
+        "group": "Jack's Paint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.085044,
+          -26.125767
+        ]
+      },
+      "properties": {
+        "name": "Corlett Drive",
+        "group": "Jack's Paint"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.10327884343941,
+          -26.12874158183761
+        ]
+      },
+      "properties": {
+        "name": "Lyndhurst",
+        "group": "Jack's Paint"
+      }
+    }
+  ]
+}
